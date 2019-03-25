@@ -1,0 +1,41 @@
+{
+  "name": "react-cook-book",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@priv_bitbucket.org:adam_pilacki/react-cook-book.git",
+  "author": "adam.pilacki <adam.pilacki@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/classnames": "^2.2.7",
+    "@types/jest": "^24.0.11",
+    "@types/node": "^11.11.6",
+    "@types/node-uuid": "^0.0.28",
+    "@types/react": "^16.8.8",
+    "@types/react-dom": "^16.8.3",
+    "@types/react-redux": "^7.0.5",
+    "@types/redux-localstorage": "^1.0.8",
+    "classnames": "^2.2.6",
+    "node-uuid": "^1.4.8",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-localstorage": "^0.4.1",
+    "typescript": "^3.3.4000"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "^2.1.8"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
